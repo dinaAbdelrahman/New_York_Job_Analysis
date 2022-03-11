@@ -14,3 +14,11 @@ I am running a data science project on the dataset to answer below questions:
 Highest paid Skills in the US market?
 Job categories for niche skills (from previous step?
 Applying clustering concepts to show different salary ranges based on job category and years of experience.
+
+## 2. Project details:
+
+* Data exploratry analysis
+* Data wrangling
+* feature engineering
+* Clustering algorithm
+* Machine learning algorithms for salary prediction using linear regression, decision tree & random forest
