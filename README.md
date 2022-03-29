@@ -22,3 +22,4 @@ Applying clustering concepts to show different salary ranges based on job catego
 * feature engineering
 * Clustering algorithm
 * Machine learning algorithms for salary prediction using linear regression, decision tree & random forest
+* Analysing the models performance
